@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1510471625 source:d:\kuliah semester 3\tba\tubes\fungsi.cpp
+	"header.h"
+
+1510471344 d:\kuliah semester 3\tba\tubes\header.h
+	<iostream>
+
+1510719778 source:d:\kuliah semester 3\tba\tubes\main.cpp
+	"header.h"
+	<cstring>
+
+1512316932 source:d:\kuliah\semester 3\tba\tubes tahap 1\tubes tba-if4001-anjar-ara-deby-kinkin\fungsi.cpp
+	"header.h"
+
+1512309802 d:\kuliah\semester 3\tba\tubes tahap 1\tubes tba-if4001-anjar-ara-deby-kinkin\header.h
+	<iostream>
+
+1512309930 source:d:\kuliah\semester 3\tba\tubes tahap 1\tubes tba-if4001-anjar-ara-deby-kinkin\main.cpp
+	"header.h"
+	<cstring>
+
+1512532801 source:e:\project cpp\tubes tba_if4001_anjar_ara_deby_kinkin\main.cpp
+	"header.h"
+	<cstring>
+
+1512532351 e:\project cpp\tubes tba_if4001_anjar_ara_deby_kinkin\header.h
+	<iostream>
+
+1512533368 source:e:\project cpp\tubes tba_if4001_anjar_ara_deby_kinkin\fungsi.cpp
+	"header.h"
+
